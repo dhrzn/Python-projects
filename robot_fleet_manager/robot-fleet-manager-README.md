@@ -56,3 +56,15 @@ Robotics Concepts
 - Multi-robot system architecture
 - Resource management (battery as constrained resource)
 - Robot capability modeling (wheels, altitude, reach)
+
+# Future Enhancements
+Planned Features:
+- File I/O: Loading fleet data to CSV files
+- Search functionality: Find robots by type or battery level
+- Battery alerts: Automatic low-battery notifications
+- Mission assignments: Assign tasks to specific robots
+- Collision detection: Prevent robots from occupying same position
+- Performance metrics: Track total distance traveled, battery efficiency
+
+#
+This is a learning project please feel free to send any sort of criticism. Any is welcomed!
